@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "641f75135d8e83a2",
+            "id": "84edfc773859b8a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Week_01.md",
+                "file": "Notes/Week_02 (Maths).md",
                 "mode": "source",
                 "source": false
               }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3b90cda116bba9f5",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Week_01.md",
+                "file": "Notes/Week_02 (Maths).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Week_01.md",
+                "file": "Notes/Week_02 (Maths).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Week_01.md"
+                "file": "Notes/Week_02 (Maths).md"
               }
             }
           }
@@ -158,9 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "641f75135d8e83a2",
+  "active": "84edfc773859b8a7",
   "lastOpenFiles": [
-    "Notes/Plan.pdf",
-    "Notes/Week_01.md"
+    "Code/Week_02_Maths/index.md",
+    "Notes/Week_02 (Maths).md",
+    "Notes/Week_01 (Asymptotic Analysis).md",
+    "Notes/Plan.pdf"
   ]
 }
