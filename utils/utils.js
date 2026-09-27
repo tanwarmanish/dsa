@@ -11,3 +11,11 @@ export function min(data,i,j){
 export function max(data,i,j){
 	return data[i]>data[j];
 }
+
+export function copy(value){
+	return JSON.stringify(value);
+}
+
+export function isEqual(first,second){
+	return copy(first)==copy(second);
+}
